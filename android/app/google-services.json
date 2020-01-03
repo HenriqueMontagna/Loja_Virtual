@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "456665906485",
+    "firebase_url": "https://lojaonine-4b0f1.firebaseio.com",
+    "project_id": "lojaonine-4b0f1",
+    "storage_bucket": "lojaonine-4b0f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456665906485:android:c260999e879a9adc28e07c",
+        "android_client_info": {
+          "package_name": "br.com.montagna.loja_online2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456665906485-26rcaisu0uabf3aui6ga9jau2n1333pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2khgvEA4F-TAsIMsOzh88mcDn2zkSewM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456665906485-26rcaisu0uabf3aui6ga9jau2n1333pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
